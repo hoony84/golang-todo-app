@@ -4,12 +4,12 @@
 
 ---
 
-Todo
+## Note
 
 * 편의를 위해서 한글로 쓰기 시작
 * CLI 기반으로 작동을 목표로 작성
 * 기본 컨셉은 아래에서 가지고 올 예정임
-    [todo.txt Github Page](https://github.com/todotxt/todo.txt)
+    * [todo.txt Github Page](https://github.com/todotxt/todo.txt)
 
 * 주요 기능
     * Add : 할일 추가
